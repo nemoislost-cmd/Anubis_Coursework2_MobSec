@@ -10,7 +10,7 @@ This is a project that aims to improves the security of an android application. 
 
 ## Modifications
 
-- Login/Register + 2FA  
+### Login/Register + 2FA  
  - To register for an account on the Omni Notes application, the user is required to enter their email.  
  ![image](https://user-images.githubusercontent.com/59412437/229137940-05fb58e1-9c4a-41c6-9e06-8767752c3a87.png)
 
@@ -23,10 +23,10 @@ This is a project that aims to improves the security of an android application. 
  - Upon inputting their phone number, a 6 digit OTP will be sent to that number.  
  ![image](https://user-images.githubusercontent.com/59412437/229139082-b5a6b434-7cb4-4485-a965-23eb47bfe0bb.png)
 
-- ‘No Screenshot’ and ‘No Screen Recording’ Policy  
+### ‘No Screenshot’ and ‘No Screen Recording’ Policy  
  - Screenshots and screen recordings of the notes are disallowed.  
  
- - Password Policy 
+### Password Policy 
   - There are four requirements for the password creation and they are:  
     1. Passwords must be at least 8 characters  
     2. Minimum of one uppercase  
@@ -34,7 +34,7 @@ This is a project that aims to improves the security of an android application. 
     4. Minimum of one symbol (e.g. ?, !, @, #, $ etc.)  
 ![ezgif com-crop](https://user-images.githubusercontent.com/59412437/229144003-2c284c19-1b9b-4e2a-9caf-391f6beb26dc.gif)
 
-- Password Visibility Field  
+### Password Visibility Field  
  - User can toggle between showing and hiding the password, it can be beneficial for usability and security.  
 ![image](https://user-images.githubusercontent.com/59412437/229144465-e201594e-03bb-42ac-8d75-cadcc8311198.png)
 
