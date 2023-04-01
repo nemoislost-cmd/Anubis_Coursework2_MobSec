@@ -24,7 +24,8 @@ This is a project that aims to improves the security of an android application. 
  ![image](https://user-images.githubusercontent.com/59412437/229139082-b5a6b434-7cb4-4485-a965-23eb47bfe0bb.png)
 
 ### ‘No Screenshot’ and ‘No Screen Recording’ Policy  
- - Screenshots and screen recordings of the notes are disallowed.  
+ - Screenshots and screen recordings of the notes are disallowed. 
+ ![ss-removebg-preview](https://user-images.githubusercontent.com/59412437/229263995-3b5ec513-94ca-4c7c-a300-2f151bfba92a.png)
  
 ### Password Policy 
   - There are four requirements for the password creation and they are:  
